@@ -10,7 +10,7 @@
     "unlayer-types": "^1.33.0"
   },
   "devDependencies": {
-    "browser-sync": "^2.26.2",
+    "browser-sync": "^3.0.2",
     "chokidar": "^3.6.0",
     "micromatch": "^4.0.7",
     "readdirp": "^3.6.0"
