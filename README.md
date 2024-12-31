@@ -1,10 +1,21 @@
-# WeMake Email Signature Generator
+# WeMake Email Signature
 
-## Set using GAMADV-XTD3
+## Install dependencies
 
 ```bash
-gam user florentin@wemake.cx signature file src/florentin.html html
-gam user leon@wemake.cx signature file src/leon.html html
-gam user soraya@ai.wemake.cx signature file src/soraya.ai.html html
-gam user val@ai.wemake.cx signature file src/val.ai.html html
+pnpm i
 ```
+
+## Run the dev server
+
+```bash
+pnpm dev
+```
+
+## Open the signature in your browser
+
+Open `http://localhost:1312/signature.html` in your browser.
+
+## Build the signature
+
+Edit the `src/signature.html` file and watch the changes.
