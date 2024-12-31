@@ -16,7 +16,7 @@
     "readdirp": "^3.6.0"
   },
   "scripts": {
-    "dev": "browser-sync start --server 'src' --files 'src/**/*' --startPath 'signature.html'"
+    "dev": "browser-sync start --server 'src' --port 1312 --files 'src/**/*' --startPath 'signature.html'"
   },
   "keywords": [],
   "author": "",
